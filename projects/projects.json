@@ -2,6 +2,25 @@
   "featured": "YouTube on PS3",
   "projects": [
   {
+    "name": "Rdvouz",
+    "thumb": "rdvouz/thumb.png",
+    "desc": "Long distance ride sharing site that shows you all the people passing by you.",
+    "url": "https://www.rdvouz.com",
+    "info": "http://www.rdvouz.com",
+    "submitter": "FIlburtTurtle",
+    "submissionDate": "2015-06-24",
+    "tags": [
+      "Production",
+      "Ride Sharing",
+      "Web Sockets",
+      "jQuery",
+      "JSON",
+      "API",
+      "Transportation",
+      "Google Maps"
+    ]
+  },  
+  {
     "name": "APWGL",
     "thumb": "apwgl/thumb.png",
     "desc": "Fan made ARTPOP WebGL App. Renders WebGL to Gif.",
